@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.8.2",
+    "@astrojs/check": "^0.9.3",
     "@astrojs/tailwind": "^5.1.0",
     "@octokit/core": "^6.1.2",
     "astro": "^4.15.7",
