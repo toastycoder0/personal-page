@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.3",
-    "@astrojs/tailwind": "^5.1.5",
+    "@astrojs/tailwind": "^6.0.0",
     "@octokit/core": "^6.1.2",
     "astro": "^5.1.8",
     "clsx": "^2.1.1",
